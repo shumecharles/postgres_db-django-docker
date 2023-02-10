@@ -1,1 +1,1 @@
-# postgres_db-django-docker
+# dockerize django and postgres database 
